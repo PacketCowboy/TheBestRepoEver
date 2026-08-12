@@ -2,7 +2,7 @@
 
 For the love of the game. Coffee. Packets. Curiosity.
 
-I'm Packet Cowboy — a cybersecurity nerd, tinkerer, and lifelong student of how things work.
+I'm Packet Cowboy — a nerd, tinkerer, and lifelong student of how things work.
 
 I like taking things apart, figuring out why they break, and occasionally making them do things they weren't supposed to do.
 
