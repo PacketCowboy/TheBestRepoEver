@@ -55,7 +55,7 @@ followed by several hours of:
       |  COWBOY  |
       '----------'
 
-Keep exploring. Keep building. Don't fuck it up.
+Keep exploring. Keep building. Enjoy the journey.
 
 
 
